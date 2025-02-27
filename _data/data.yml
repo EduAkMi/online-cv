@@ -81,8 +81,9 @@ experiences:
     time: 2022 - Present
     company: BEES, Campinas - Brazil
     details: |
-      Working for the BEES Force application, developing new features and discussing improvements for the maintenance of the project.
-        - Kotlin
+      Working for the BEES Force application, developing features to increase users productivity and benefits while working.
+      Also integrating new workflows and solutions for internal usage.
+        - JUnit
         - Retrofit
         - Room
         - Koin
@@ -91,7 +92,8 @@ experiences:
     time: 2020 - 2022
     company: SiDi, Campinas - Brazil
     details: |
-      Working for the mainframe of Samsung devices and on the prototyping of an indoor geopositioning system.
+      Worked on low-level software components for Samsung devices, focusing on improving the performance of features from WiFi and Bluetooth.
+      Also collaborated with cross-functional teams to design and implement a new application for indoor positioning.
         - Java
         - GPS
         - gRPC
@@ -100,7 +102,8 @@ experiences:
     time: 2020 - 2021
     company: Digital House, Brazil
     details: |
-      Working as an assistant to reinforce the learning of a class, giving monitoring and helping the students when needed.
+      Assisted on the learning of more than 100 students, helping them learn the basics of Android development and preparing them for the best practices of the market.
+      Also provided hands-on support offering monitoring and coding exercises.
         - Kotlin
         - Dagger2/Hilt
         - REST
