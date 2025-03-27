@@ -81,32 +81,27 @@ experiences:
     time: 2022 - Present
     company: BEES, Campinas - Brazil
     details: |
-      Working for the BEES Force application, developing features to increase users productivity and benefits while working.
-      Also integrating new workflows and solutions for internal usage.
-        - JUnit
-        - Retrofit
-        - Room
-        - Koin
-        - MVVM
+      Working for the BEES Force application, developing features to increase productivity and benefits for B2B workers:
+        • Implemented features for Monetization, User performance, Synchronization, Profile, Workflow, etc
+        • Reviewed code and submitions
+        • Deployed processes on our pipeline to catalog alterations
+        • Created an event for debugging, which found several bugs before entering production process
+        • Coordinated a small team for BFF initiatives and introduced newcomers on the onboarding
   - role: Software Engineer
     time: 2020 - 2022
     company: SiDi, Campinas - Brazil
     details: |
-      Worked on low-level software components for Samsung devices, focusing on improving the performance of features from WiFi and Bluetooth.
-      Also collaborated with cross-functional teams to design and implement a new application for indoor positioning.
-        - Java
-        - GPS
-        - gRPC
-        - MVP
+        • Prototyped a B2B indoor positioning system for the retail sector, designing the architecture and developing it
+        • Provided maintenance and improvements on Samsungs devices, focusing mainly on features from Bluetooth, WiFi and database
+        • Participated in discussions with global teams providing technical avaliations for the development of the new product
   - role: Android Assistant Teacher
     time: 2020 - 2021
     company: Digital House, Brazil
     details: |
-      Assisted on the learning of more than 100 students, helping them learn the basics of Android development and preparing them for the best practices of the market.
-      Also provided hands-on support offering monitoring and coding exercises.
-        - Kotlin
-        - Dagger2/Hilt
-        - REST
+        • Assisted on the learning of more than 100 students initiating on the Android development
+        • Performed mentoring on fixed hours to reinforce and abstract additional knowledge
+        • Created content for classes and team exercises
+        • Reviewed single and team projects submissions, providing feedbacks and improvements for each submission
 
 projects:
   title: Projects
