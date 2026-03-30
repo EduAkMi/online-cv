@@ -65,7 +65,7 @@ education:
   info:
   - degree: MBA in Mobile Development
     university: FIAP
-    time: 2022 - 2023
+    time: 10/2022 - 10/2023
     details: |
       This MBA provided a comprehensive education on the latest technologies in mobile app development, for example Android, iOS (Swift), React Native, Flutter, microservices architecture, chatbots and more.
   - degree: BSc in Computer Sciences
@@ -78,7 +78,7 @@ experiences:
   title: Experiences
   info:
   - role: Android Developer
-    time: 2022 - Present
+    time: 06/2022 - Present
     company: BEES, Campinas - Brazil
     details: |
       Working for the BEES Force application, developing features to increase productivity and benefits for B2B workers:
@@ -93,7 +93,7 @@ experiences:
       
         • Coordinated a team for BFF initiatives and introduced onboarding for newcomers
   - role: Software Engineer
-    time: 2020 - 2022
+    time: 09/2020 - 06/2022
     company: SiDi, Campinas - Brazil
     details: |
         • Prototyped a B2B indoor positioning system for the retail sector, designing the architecture and developing it
@@ -102,7 +102,7 @@ experiences:
       
         • Participated in discussions with global teams providing technical validations for the development of new products
   - role: Android Assistant Teacher
-    time: 2020 - 2021
+    time: 08/2020 - 07/2021
     company: Digital House, Brazil
     details: |
         • Assisted on the learning of more than 100 students initiating on the Android development
