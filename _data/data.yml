@@ -59,7 +59,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Passionate mobile developer with strong expertise in Kotlin/Java, REST APIs, and SQL databases, dedicated to building high-performance, user-centric applications. Experienced in the full development lifecycle, from prototyping to deployment and maintenance, following agile best practices. Earned an MBA in Mobile Development in 2023, expanding my skills in microservices, Flutter, React, iOS, and AI-driven applications. Always eager to learn and innovate, delivering scalable and efficient solutions.
+    Passionate mobile developer with strong expertise in Kotlin/Java, REST APIs, testing and SQL databases, dedicated to building high-performance and scalable applications. Experienced in the full development lifecycle, from prototyping to deployment and maintenance, following agile best practices. Earned an MBA in Mobile Development in 2023, expanding my skills in microservices, Flutter, React, iOS, and AI-driven applications.
 education:
   title: Education
   info:
@@ -89,9 +89,9 @@ experiences:
       
         • Deployed processes on our pipeline to catalog alterations
       
-        • Created an event for debugging, which found several bugs before entering production process
+        • Created events for debugging and team-building
       
-        • Coordinated a small team for BFF initiatives and introduced newcomers on the onboarding
+        • Coordinated a team for BFF initiatives and introduced onboarding for newcomers
   - role: Software Engineer
     time: 2020 - 2022
     company: SiDi, Campinas - Brazil
@@ -100,7 +100,7 @@ experiences:
       
         • Provided maintenance and improvements on Samsung's devices, focusing mainly on features from Bluetooth, WiFi and database
       
-        • Participated in discussions with global teams providing technical validations for the development of the new product
+        • Participated in discussions with global teams providing technical validations for the development of new products
   - role: Android Assistant Teacher
     time: 2020 - 2021
     company: Digital House, Brazil
@@ -117,7 +117,7 @@ projects:
   assignments:
   - title: Final Quest
     link: "https://play.google.com/store/apps/details?id=com.finalquest"
-    tagline: "A sandbox application for the creation and manipulation of cards for personal games."
+    tagline: "A sandbox application for creating and manipulating cards for personal games."
 
 
 skills:
