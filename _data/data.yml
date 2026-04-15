@@ -49,10 +49,10 @@ sidebar:
     - item: Mobile Development
       link:
 
-    - item: Card Games
+    - item: Compose
       link:
 
-    - item: Music
+    - item: KMM
       link:
 
 
@@ -68,7 +68,7 @@ education:
     time: 10/2022 - 10/2023
     details: |
       This MBA provided a comprehensive education on the latest technologies in mobile app development, for example Android, iOS (Swift), React Native, Flutter, microservices architecture, chatbots and more.
-  - degree: BSc in Computer Sciences
+  - degree: Bachelor in Computer Sciences
     university: Universidade Estadual Paulista "Júlio de Mesquita Filho" - UNESP
     time: 03/2013 - 06/2019
     details: |
@@ -125,12 +125,15 @@ skills:
 
   toolset:
   - name: Kotlin
-    level: 95%
+    level: 100%
 
   - name: Java
     level: 70%
 
   - name: Material Design
+    level: 90%
+
+  - name: Object-Oriented Programming (OOP)
     level: 80%
 
   - name: Javascript
