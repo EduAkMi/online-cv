@@ -1,0 +1,150 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: right # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Eduardo Akio Misina
+  tagline: Android Mobile Developer
+  avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: edu_misina@hotmail.com
+  phone: +55 16 99623-1182
+  timezone: America/Sao Paulo # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship:
+  website:
+  linkedin: eduardo-misina-b7073069
+  xing:
+  github: EduAkMi
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  bluesky:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  mastodon: # Please include your full Mastodon link here.
+  hackerrank: # Please provide your HackerRank username.
+  leetcode: # Please provide your LeetCode username.
+  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+  languages:
+    title: Languages
+    info:
+    - idiom: Portuguese
+      level: Native
+
+    - idiom: English
+      level: Professional
+
+  interests:
+    title: Interests
+    info:
+    - item: Mobile Development
+      link:
+
+    - item: Compose
+      link:
+
+    - item: KMM
+      link:
+
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Passionate mobile developer with strong expertise in Kotlin/Java, REST APIs, testing and SQL databases, dedicated to building high-performance and scalable applications. Experienced in the full development lifecycle, from prototyping to deployment and maintenance, following agile best practices. Earned an MBA in Mobile Development in 2023, expanding my skills in microservices, Flutter, React, iOS, and AI-driven applications.
+education:
+  title: Education
+  info:
+  - degree: MBA in Mobile Development
+    university: FIAP
+    time: 10/2022 - 10/2023
+    details: |
+      This MBA provided a comprehensive education on the latest technologies in mobile app development, for example Android, iOS (Swift), React Native, Flutter, microservices architecture, chatbots and more.
+  - degree: Bachelor in Computer Sciences
+    university: Universidade Estadual Paulista "Júlio de Mesquita Filho" - UNESP
+    time: 03/2013 - 06/2019
+    details: |
+      A Bachelor degree focused on the many areas of Computer Science, for example Data Structure, microprocessors, systems analysis, computer architecture, software engineering and more.
+
+experiences:
+  title: Experiences
+  info:
+  - role: Android Developer
+    time: 06/2022 - Present
+    company: BEES, Campinas - Brazil
+    details: |
+      Working for the BEES Force application, developing features to increase productivity and benefits for B2B workers:
+      
+        • Implemented features for Monetization, User performance, Synchronization, Profile, Workflow, etc
+      
+        • Reviewed code and submissions
+      
+        • Deployed processes on our pipeline to catalog alterations
+      
+        • Created events for debugging and team-building
+      
+        • Coordinated a team for BFF initiatives and introduced onboarding for newcomers
+  - role: Software Engineer
+    time: 09/2020 - 06/2022
+    company: SiDi, Campinas - Brazil
+    details: |
+        • Prototyped a B2B indoor positioning system for the retail sector, designing the architecture and developing it
+      
+        • Provided maintenance and improvements on Samsung's devices, focusing mainly on features from Bluetooth, WiFi and database
+      
+        • Participated in discussions with global teams providing technical validations for the development of new products
+  - role: Android Assistant Teacher
+    time: 08/2020 - 07/2021
+    company: Digital House, Brazil
+    details: |
+        • Assisted on the learning of more than 100 students initiating on the Android development
+      
+        • Performed mentoring on fixed hours to reinforce and abstract additional knowledge
+      
+        • Created content for classes and team exercises
+      
+        • Reviewed single and team projects submissions, providing feedbacks and improvements for each submission
+projects:
+  title: Projects
+  assignments:
+  - title: Final Quest
+    link: "https://play.google.com/store/apps/details?id=com.finalquest"
+    tagline: "A sandbox application for creating and manipulating cards for personal games."
+
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+  - name: Kotlin
+    level: 100%
+
+  - name: Java
+    level: 70%
+
+  - name: Material Design
+    level: 90%
+
+  - name: Object-Oriented Programming (OOP)
+    level: 80%
+
+  - name: Javascript
+    level: 50%
+
+  - name: Flutter
+    level: 50%
+
+  - name: Swift
+    level: 30%
+
+  - name: React
+    level: 30%
+

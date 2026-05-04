@@ -37,23 +37,23 @@ sidebar:
   languages:
     title: Idiomas
     info:
-      - idiom: Português
-        level: Nativo
+    - idiom: Português
+      level: Nativo
 
-      - idiom: Inglês
-        level: Profissional
+    - idiom: Inglês
+      level: Profissional
 
   interests:
     title: Interesses
     info:
-      - item: Desenvolvimento mobile
-        link:
+    - item: Desenvolvimento mobile
+      link:
 
-      - item: Compose
-        link:
+    - item: Compose
+      link:
 
-      - item: KMM
-        link:
+    - item: KMM
+      link:
 
 
 career-profile:
@@ -63,48 +63,48 @@ career-profile:
 education:
   title: Formação
   info:
-    - degree: MBA em Desenvolvimento Mobile
-      university: FIAP
-      time: 10/2022 - 10/2023
-      details: |
-        Este MBA proporcionou uma educação abrangente sobre as tecnologias mais recentes em desenvolvimento de aplicativos mobile, como Android, iOS (Swift), React Native, Flutter, arquitetura de microsserviços, chatbots e muito mais.
-    - degree: Bacharelado em Ciências da Computação
-      university: Universidade Estadual Paulista "Júlio de Mesquita Filho" - UNESP
-      time: 03/2013 - 06/2019
-      details: |
-        Bacharelado focado nas diversas áreas da Ciência da Computação, como Estrutura de Dados, microprocessadores, análise de sistemas, arquitetura de computadores, engenharia de software e muito mais.
+  - degree: MBA em Desenvolvimento Mobile
+    university: FIAP
+    time: 10/2022 - 10/2023
+    details: |
+      Este MBA proporcionou uma educação abrangente sobre as tecnologias mais recentes em desenvolvimento de aplicativos mobile, como Android, iOS (Swift), React Native, Flutter, arquitetura de microsserviços, chatbots e muito mais.
+  - degree: Bacharelado em Ciências da Computação
+    university: Universidade Estadual Paulista "Júlio de Mesquita Filho" - UNESP
+    time: 03/2013 - 06/2019
+    details: |
+      Bacharelado focado nas diversas áreas da Ciência da Computação, como Estrutura de Dados, microprocessadores, análise de sistemas, arquitetura de computadores, engenharia de software e muito mais.
 
 experiences:
   title: Experiências
   info:
-    - role: Android Developer
-      time: 06/2022 - Atual
-      company: BEES, Campinas - Brazil
-      details: |
-        Trabalhando no aplicativo BEES Force, desenvolvi funcionalidades para aumentar a produtividade e benefícios para trabalhadores B2B:
-        
-          • Implementei funcionalidades para Monetização, Performance do Usuário, Sincronização, Perfil, Fluxo de Trabalho, etc
-        
-          • Reviso código e submissões
-        
-          • Implantei processos no pipeline para catalogar alterações
-        
-          • Criei eventos para depuração e integração de equipe
-        
-          • Coordenei uma equipe para iniciativas de BFF e introduzi onboarding para novos membros
-    - role: Engenheiro de Software
-      time: 09/2020 - 06/2022
-      company: SiDi, Campinas - Brazil
-      details: |
+  - role: Android Developer
+    time: 06/2022 - Atual
+    company: BEES, Campinas - Brazil
+    details: |
+      Trabalhando no aplicativo BEES Force, desenvolvi funcionalidades para aumentar a produtividade e benefícios para trabalhadores B2B:
+
+        • Implementei funcionalidades para Monetização, Performance do Usuário, Sincronização, Perfil, Fluxo de Trabalho, etc
+
+        • Reviso código e submissões
+
+        • Implantei processos no pipeline para catalogar alterações
+
+        • Criei eventos para depuração e integração de equipe
+
+        • Coordenei uma equipe para iniciativas de BFF e introduzi onboarding para novos membros
+  - role: Engenheiro de Software
+    time: 09/2020 - 06/2022
+    company: SiDi, Campinas - Brazil
+    details: |
         • Prototipei um sistema de posicionamento indoor B2B para o setor de varejo, projetando a arquitetura e desenvolvendo-o
 
         • Realizei manutenção e melhorias em dispositivos Samsung, com foco principalmente em funcionalidades de Bluetooth, WiFi e banco de dados
 
         • Participei de discussões com equipes globais fornecendo validações técnicas para o desenvolvimento de novos produtos
-    - role: Professor Assistente de Android
-      time: 08/2020 - 07/2021
-      company: Digital House, Brazil
-      details: |
+  - role: Professor Assistente de Android
+    time: 08/2020 - 07/2021
+    company: Digital House, Brazil
+    details: |
         • Auxiliei no aprendizado de mais de 100 alunos iniciando no desenvolvimento Android
 
         • Realizei mentoria para reforçar e abstrair conhecimentos adicionais
@@ -115,35 +115,35 @@ experiences:
 projects:
   title: Projetos
   assignments:
-    - title: Final Quest
-      link: "https://play.google.com/store/apps/details?id=com.finalquest"
-      tagline: "Um aplicativo auxiliar para criar e manipular cartas para jogos pessoais."
+  - title: Final Quest
+    link: "https://play.google.com/store/apps/details?id=com.finalquest"
+    tagline: "Um aplicativo auxiliar para criar e manipular cartas para jogos pessoais."
 
 
 skills:
   title: Habilidades &amp; Proficiência
 
   toolset:
-    - name: Kotlin
-      level: 100%
+  - name: Kotlin
+    level: 100%
 
-    - name: Java
-      level: 70%
+  - name: Java
+    level: 70%
 
-    - name: Material Design
-      level: 90%
+  - name: Material Design
+    level: 90%
 
-    - name: Programação orientada a objetos (OOP)
-      level: 80%
+  - name: Programação orientada a objetos (OOP)
+    level: 80%
 
-    - name: Javascript
-      level: 50%
+  - name: Javascript
+    level: 50%
 
-    - name: Flutter
-      level: 50%
+  - name: Flutter
+    level: 50%
 
-    - name: Swift
-      level: 30%
+  - name: Swift
+    level: 30%
 
-    - name: React
-      level: 30%
+  - name: React
+    level: 30%
