@@ -37,23 +37,23 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: Portuguese
-      level: Native
+      - idiom: Portuguese
+        level: Native
 
-    - idiom: English
-      level: Professional
+      - idiom: English
+        level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Mobile Development
-      link:
+      - item: Mobile Development
+        link:
 
-    - item: Compose
-      link:
+      - item: Compose
+        link:
 
-    - item: KMM
-      link:
+      - item: KMM
+        link:
 
 
 career-profile:
@@ -63,97 +63,97 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MBA in Mobile Development
-    university: FIAP
-    time: 10/2022 - 10/2023
-    details: |
-      This MBA provided a comprehensive education on the latest technologies in mobile app development, for example Android, iOS (Swift), React Native, Flutter, microservices architecture, chatbots and more.
-  - degree: Bachelor in Computer Sciences
-    university: Universidade Estadual Paulista "Júlio de Mesquita Filho" - UNESP
-    time: 03/2013 - 06/2019
-    details: |
-      A Bachelor degree focused on the many areas of Computer Science, for example Data Structure, microprocessors, systems analysis, computer architecture, software engineering and more.
+    - degree: MBA in Mobile Development
+      university: FIAP
+      time: 10/2022 - 10/2023
+      details: |
+        This MBA provided a comprehensive education on the latest technologies in mobile app development, for example Android, iOS (Swift), React Native, Flutter, microservices architecture, chatbots and more.
+    - degree: Bachelor in Computer Sciences
+      university: Universidade Estadual Paulista "Júlio de Mesquita Filho" - UNESP
+      time: 03/2013 - 06/2019
+      details: |
+        A Bachelor degree focused on the many areas of Computer Science, for example Data Structure, microprocessors, systems analysis, computer architecture, software engineering and more.
 
 experiences:
   title: Experiences
   info:
-  - - role: Android Developer
-    - time: 07/2025 - Present
-    - company: Ontop, San Francisco - USA
-    - details: |
+    - role: Android Developer
+      time: 07/2025 - Present
+      company: Ontop, San Francisco - USA
+      details: |
         Working on the Ontop Android app enabling workers around the world to use their money on the best possible way.
-
+        
         • Delivered features for USDC account, uitoolkit and crypto transfer
         
         • Added tools into our application to improve work efficiency
-
+        
         • Reviewed code and submissions
-  - role: Android Developer
-    time: 06/2022 - 07/2025
-    company: BEES, Campinas - Brazil
-    details: |
-      Worked for the BEES Force application, developing features to increase productivity and benefits for B2B workers:
-      
-        • Implemented features for Monetization, User performance, Synchronization, Profile, Workflow, etc
-      
-        • Deployed processes on our pipeline to catalog alterations
-      
-        • Created events for debugging and team-building
-      
-        • Coordinated a team for BFF initiatives and introduced onboarding for newcomers
-  - role: Software Engineer
-    time: 09/2020 - 06/2022
-    company: SiDi, Campinas - Brazil
-    details: |
+    - role: Android Developer
+      time: 06/2022 - 07/2025
+      company: BEES, Campinas - Brazil
+      details: |
+        Worked for the BEES Force application, developing features to increase productivity and benefits for B2B workers:
+        
+          • Implemented features for Monetization, User performance, Synchronization, Profile, Workflow, etc
+        
+          • Deployed processes on our pipeline to catalog alterations
+        
+          • Created events for debugging and team-building
+        
+          • Coordinated a team for BFF initiatives and introduced onboarding for newcomers
+    - role: Software Engineer
+      time: 09/2020 - 06/2022
+      company: SiDi, Campinas - Brazil
+      details: |
         • Prototyped a B2B indoor positioning system for the retail sector, designing the architecture and developing it
-      
+        
         • Provided maintenance and improvements on Samsung's devices, focusing mainly on features from Bluetooth, WiFi and database
-      
+        
         • Participated in discussions with global teams sharing technical validations for the development of new products
-  - role: Android Assistant Teacher
-    time: 08/2020 - 07/2021
-    company: Digital House, Brazil
-    details: |
+    - role: Android Assistant Teacher
+      time: 08/2020 - 07/2021
+      company: Digital House, Brazil
+      details: |
         • Assisted on the learning of more than 100 students initiating on the Android development
-      
+        
         • Performed mentoring on fixed hours to reinforce and abstract additional knowledge
-      
+        
         • Created content for classes and team exercises
-      
+        
         • Reviewed single and team projects submissions, providing feedbacks and improvements for each submission
 projects:
   title: Projects
   assignments:
-  - title: Final Quest
-    link: "https://play.google.com/store/apps/details?id=com.finalquest"
-    tagline: "A sandbox application for creating and manipulating cards for personal games."
+    - title: Final Quest
+      link: "https://play.google.com/store/apps/details?id=com.finalquest"
+      tagline: "A sandbox application for creating and manipulating cards for personal games."
 
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Kotlin
-    level: 100%
+    - name: Kotlin
+      level: 100%
 
-  - name: Java
-    level: 70%
+    - name: Java
+      level: 70%
 
-  - name: Material Design
-    level: 90%
+    - name: Material Design
+      level: 90%
 
-  - name: Object-Oriented Programming (OOP)
-    level: 80%
+    - name: Object-Oriented Programming (OOP)
+      level: 80%
 
-  - name: Javascript
-    level: 50%
+    - name: Javascript
+      level: 50%
 
-  - name: Flutter
-    level: 50%
+    - name: Flutter
+      level: 50%
 
-  - name: Swift
-    level: 30%
+    - name: Swift
+      level: 30%
 
-  - name: React
-    level: 30%
+    - name: React
+      level: 30%
 

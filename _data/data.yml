@@ -77,17 +77,17 @@ education:
 experiences:
   title: Experiences
   info:
-    - - role: Android Developer
-      - time: 07/2025 - Present
-      - company: Ontop, San Francisco - USA
-      - details: |
-          Working on the Ontop Android app enabling workers around the world to use their money on the best possible way.
+    - role: Android Developer
+      time: 07/2025 - Present
+      company: Ontop, San Francisco - USA
+      details: |
+        Working on the Ontop Android app enabling workers around the world to use their money on the best possible way.
           
-          • Delivered features for USDC account, uitoolkit and crypto transfer
+        • Delivered features for USDC account, uitoolkit and crypto transfer
           
-          • Added tools into our application to improve work efficiency
+        • Added tools into our application to improve work efficiency
           
-          • Reviewed code and submissions
+        • Reviewed code and submissions
     - role: Android Developer
       time: 06/2022 - 07/2025
       company: BEES, Campinas - Brazil
