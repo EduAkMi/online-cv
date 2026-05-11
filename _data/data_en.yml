@@ -77,15 +77,24 @@ education:
 experiences:
   title: Experiences
   info:
+  - - role: Android Developer
+    - time: 07/2025 - Present
+    - company: Ontop, San Francisco - USA
+    - details: |
+        Working on the Ontop Android app enabling workers around the world to use their money on the best possible way.
+
+        • Delivered features for USDC account, uitoolkit and crypto transfer
+        
+        • Added tools into our application to improve work efficiency
+
+        • Reviewed code and submissions
   - role: Android Developer
-    time: 06/2022 - Present
+    time: 06/2022 - 07/2025
     company: BEES, Campinas - Brazil
     details: |
-      Working for the BEES Force application, developing features to increase productivity and benefits for B2B workers:
+      Worked for the BEES Force application, developing features to increase productivity and benefits for B2B workers:
       
         • Implemented features for Monetization, User performance, Synchronization, Profile, Workflow, etc
-      
-        • Reviewed code and submissions
       
         • Deployed processes on our pipeline to catalog alterations
       
@@ -100,7 +109,7 @@ experiences:
       
         • Provided maintenance and improvements on Samsung's devices, focusing mainly on features from Bluetooth, WiFi and database
       
-        • Participated in discussions with global teams providing technical validations for the development of new products
+        • Participated in discussions with global teams sharing technical validations for the development of new products
   - role: Android Assistant Teacher
     time: 08/2020 - 07/2021
     company: Digital House, Brazil

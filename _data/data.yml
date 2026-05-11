@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Eduardo Akio Misina
-  tagline: Desenvolvedor Mobile Android
+  tagline: Android Mobile Developer
   avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -35,18 +35,18 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Idiomas
+    title: Languages
     info:
-      - idiom: Português
-        level: Nativo
+      - idiom: Portuguese
+        level: Native
 
-      - idiom: Inglês
-        level: Profissional
+      - idiom: English
+        level: Professional
 
   interests:
-    title: Interesses
+    title: Interests
     info:
-      - item: Desenvolvimento mobile
+      - item: Mobile Development
         link:
 
       - item: Compose
@@ -57,71 +57,80 @@ sidebar:
 
 
 career-profile:
-  title: Perfil Profissional
+  title: Career Profile
   summary: |
-    Desenvolvedor mobile apaixonado com forte expertise em Kotlin/Java, REST APIs, testes e bancos de dados SQL, dedicado a construir aplicações de alto desempenho e escaláveis. Experiente em todo o ciclo de desenvolvimento, desde a prototipagem até a implantação e manutenção, seguindo as melhores práticas ágeis. Obteve um MBA em Desenvolvimento Mobile em 2023, expandindo suas habilidades em microsserviços, Flutter, React, iOS e aplicações baseadas em IA.
+    Passionate mobile developer with strong expertise in Kotlin/Java, REST APIs, testing and SQL databases, dedicated to building high-performance and scalable applications. Experienced in the full development lifecycle, from prototyping to deployment and maintenance, following agile best practices. Earned an MBA in Mobile Development in 2023, expanding my skills in microservices, Flutter, React, iOS, and AI-driven applications.
 education:
-  title: Formação
+  title: Education
   info:
-    - degree: MBA em Desenvolvimento Mobile
+    - degree: MBA in Mobile Development
       university: FIAP
       time: 10/2022 - 10/2023
       details: |
-        Este MBA proporcionou uma educação abrangente sobre as tecnologias mais recentes em desenvolvimento de aplicativos mobile, como Android, iOS (Swift), React Native, Flutter, arquitetura de microsserviços, chatbots e muito mais.
-    - degree: Bacharelado em Ciências da Computação
+        This MBA provided a comprehensive education on the latest technologies in mobile app development, for example Android, iOS (Swift), React Native, Flutter, microservices architecture, chatbots and more.
+    - degree: Bachelor in Computer Sciences
       university: Universidade Estadual Paulista "Júlio de Mesquita Filho" - UNESP
       time: 03/2013 - 06/2019
       details: |
-        Bacharelado focado nas diversas áreas da Ciência da Computação, como Estrutura de Dados, microprocessadores, análise de sistemas, arquitetura de computadores, engenharia de software e muito mais.
+        A Bachelor degree focused on the many areas of Computer Science, for example Data Structure, microprocessors, systems analysis, computer architecture, software engineering and more.
 
 experiences:
-  title: Experiências
+  title: Experiences
   info:
-    - role: Desenvolvedor Android
-      time: 06/2022 - Atual
+    - - role: Android Developer
+      - time: 07/2025 - Present
+      - company: Ontop, San Francisco - USA
+      - details: |
+          Working on the Ontop Android app enabling workers around the world to use their money on the best possible way.
+          
+          • Delivered features for USDC account, uitoolkit and crypto transfer
+          
+          • Added tools into our application to improve work efficiency
+          
+          • Reviewed code and submissions
+    - role: Android Developer
+      time: 06/2022 - 07/2025
       company: BEES, Campinas - Brazil
       details: |
-        Trabalhando no aplicativo BEES Force, desenvolvi funcionalidades para aumentar a produtividade e benefícios para trabalhadores B2B:
+        Worked for the BEES Force application, developing features to increase productivity and benefits for B2B workers:
         
-          • Implementei funcionalidades para Monetização, Performance do Usuário, Sincronização, Perfil, Fluxo de Trabalho, etc
+          • Implemented features for Monetization, User performance, Synchronization, Profile, Workflow, etc
         
-          • Reviso código e submissões
+          • Deployed processes on our pipeline to catalog alterations
         
-          • Implantei processos no pipeline para catalogar alterações
+          • Created events for debugging and team-building
         
-          • Criei eventos para depuração e integração de equipe
-        
-          • Coordenei uma equipe para iniciativas de BFF e introduzi onboarding para novos membros
-    - role: Engenheiro de Software
+          • Coordinated a team for BFF initiatives and introduced onboarding for newcomers
+    - role: Software Engineer
       time: 09/2020 - 06/2022
       company: SiDi, Campinas - Brazil
       details: |
-        • Prototipei um sistema de posicionamento indoor B2B para o setor de varejo, projetando a arquitetura e desenvolvendo-o
-
-        • Realizei manutenção e melhorias em dispositivos Samsung, com foco principalmente em funcionalidades de Bluetooth, WiFi e banco de dados
-
-        • Participei de discussões com equipes globais fornecendo validações técnicas para o desenvolvimento de novos produtos
-    - role: Professor Assistente de Android
+        • Prototyped a B2B indoor positioning system for the retail sector, designing the architecture and developing it
+        
+        • Provided maintenance and improvements on Samsung's devices, focusing mainly on features from Bluetooth, WiFi and database
+        
+        • Participated in discussions with global teams sharing technical validations for the development of new products
+    - role: Android Assistant Teacher
       time: 08/2020 - 07/2021
       company: Digital House, Brazil
       details: |
-        • Auxiliei no aprendizado de mais de 100 alunos iniciando no desenvolvimento Android
-
-        • Realizei mentoria para reforçar e abstrair conhecimentos adicionais
-
-        • Criei conteúdo para aulas e exercícios em equipe
-
-        • Revisei submissões de projetos individuais e em equipe, fornecendo feedbacks e melhorias para cada submissão
+        • Assisted on the learning of more than 100 students initiating on the Android development
+        
+        • Performed mentoring on fixed hours to reinforce and abstract additional knowledge
+        
+        • Created content for classes and team exercises
+        
+        • Reviewed single and team projects submissions, providing feedbacks and improvements for each submission
 projects:
-  title: Projetos
+  title: Projects
   assignments:
     - title: Final Quest
       link: "https://play.google.com/store/apps/details?id=com.finalquest"
-      tagline: "Um aplicativo auxiliar para criar e manipular cartas para jogos pessoais."
+      tagline: "A sandbox application for creating and manipulating cards for personal games."
 
 
 skills:
-  title: Habilidades &amp; Proficiência
+  title: Skills &amp; Proficiency
 
   toolset:
     - name: Kotlin
@@ -133,7 +142,7 @@ skills:
     - name: Material Design
       level: 90%
 
-    - name: Programação orientada a objetos (OOP)
+    - name: Object-Oriented Programming (OOP)
       level: 80%
 
     - name: Javascript
@@ -147,3 +156,4 @@ skills:
 
     - name: React
       level: 30%
+
