@@ -11,12 +11,19 @@
   <div class="skillset">
     {% for skill in skills.toolset %}
     <div class="item">
-      <h3 class="level-title">{{ skill.name }}</h3>
-      {% assign skill_level = 'width: ' | append: skill.level %}
-      <div class="level-bar">
-        <div class="level-bar-inner" style="{{skill_level}}"></div>
-      </div>
-      <!--//level-bar-->
+      <h3 class="level-title">
+        {{ skill.name }}
+        {% assign level_num = skill.level | remove: '%' | plus: 0 %}
+        {% if level_num >= 90 %}
+          <span class="skill-badge skill-expert">Expert</span>
+        {% elsif level_num >= 70 %}
+          <span class="skill-badge skill-advanced">Advanced</span>
+        {% elsif level_num >= 50 %}
+          <span class="skill-badge skill-intermediate">Intermediate</span>
+        {% else %}
+          <span class="skill-badge skill-beginner">Beginner</span>
+        {% endif %}
+      </h3>
     </div>
     <!--//item-->
     {% endfor %}

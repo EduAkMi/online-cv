@@ -35,7 +35,7 @@ p {
 
 .wrapper {
   display: grid;
-  grid-template-columns: repeat(10, 1fr);
+  grid-template-columns: 1fr;
   background: $theme-color;
   max-width: 1000px;
   margin: 0 auto;
@@ -44,7 +44,7 @@ p {
 }
 
 .sidebar-wrapper {
-  grid-column: span 3;
+  grid-column: span 1;
   order: $sidebar-order;
   background: $theme-color;
   color: #fff;
@@ -98,8 +98,13 @@ p {
       }
     }
   }
+  .sidebar-inner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
   .container-block {
-    padding: 30px;
+    padding: 20px 30px;
   }
   .container-block-title {
     text-transform: uppercase;
@@ -160,7 +165,7 @@ p {
 }
 
 .main-wrapper {
-  grid-column: span 7;
+  grid-column: span 1;
   order: $resume-order;
   background: #fff;
   padding: 60px;
@@ -265,23 +270,33 @@ p {
 }
 
 .skillset {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
   .item {
-    margin-bottom: 15px;
-    overflow: hidden;
+    margin-bottom: 0;
   }
   .level-title {
     font-size: 14px;
     margin-top: 0;
-    margin-bottom: 12px;
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
   }
-  .level-bar {
-    height: 12px;
-    background: $smoky-white;
+  .skill-badge {
+    font-size: 11px;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    white-space: nowrap;
   }
-  .level-bar-inner {
-    height: 12px;
-    background: lighten($theme-color, 15%);
-  }
+  .skill-expert      { background: darken($theme-color, 5%); color: #fff; }
+  .skill-advanced    { background: lighten($theme-color, 15%); color: #fff; }
+  .skill-intermediate{ background: $smoky-white; color: darken($theme-color, 10%); border: 1px solid lighten($theme-color, 20%); }
+  .skill-beginner    { background: #f5f5f5; color: $text-grey; border: 1px solid #ddd; }
 }
 
 .footer {
