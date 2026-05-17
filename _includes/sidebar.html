@@ -1,33 +1,29 @@
 {% assign sidebar = site.data.data.sidebar %}
 <div class="sidebar-wrapper">
+  <div class="profile-header">
 
-  <div class="profile-container">
+    <div class="profile-header-left">
+      {% if sidebar.name %}<h1 class="name">{{ sidebar.name }}</h1>{% endif %}
+      {% if sidebar.tagline %}<h3 class="tagline">{{ sidebar.tagline }}</h3>{% endif %}
+    </div>
 
-    {% if sidebar.avatar %}
-    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
-    {% endif %}
+    <ul class="contact-list-inline">
+      {% if sidebar.email %}
+      <li><i class="fas fa-envelope"></i><a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a></li>
+      {% endif %}
+      {% if sidebar.phone %}
+      <li><i class="fas fa-phone"></i>{{ sidebar.phone }}</li>
+      {% endif %}
+      {% if sidebar.linkedin %}
+      <li><i class="fab fa-linkedin"></i><a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a></li>
+      {% endif %}
+      {% if sidebar.github %}
+      <li><i class="fab fa-github"></i><a href="https://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a></li>
+      {% endif %}
+      {% if sidebar.timezone %}
+      <li><i class="fas fa-clock"></i>{{ sidebar.timezone }}</li>
+      {% endif %}
+    </ul>
 
-    {% if sidebar.name %}
-    <h1 class="name">{{ sidebar.name }}</h1>
-    {% endif %}
-
-    {% if sidebar.tagline %}
-    <h3 class="tagline">{{ sidebar.tagline }}</h3>
-    {% endif %}
-
-  </div><!--//profile-container-->
-
-  <div class="sidebar-inner">
-
-    {% include contact.html %}
-
-    {% if sidebar.education %}
-      {% include education.html %}
-    {% endif %}
-
-    {% include language.html %}
-    {% include interests.html %}
-
-  </div><!--//sidebar-inner-->
-
+  </div><!--//profile-header-->
 </div><!--//sidebar-wrapper-->
