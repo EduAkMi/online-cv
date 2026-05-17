@@ -59,7 +59,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Passionate mobile developer with strong expertise in Kotlin/Java, REST APIs, testing and SQL databases, dedicated to building high-performance and scalable applications. Experienced in the full development lifecycle, from prototyping to deployment and maintenance, following agile best practices. Earned an MBA in Mobile Development in 2023, expanding my skills in microservices, Flutter, React, iOS, and AI-driven applications.
+    Passionate Android Mobile Developer with strong expertise in Kotlin, Java, Jetpack Compose, Coroutines, Flow, MVVM, Clean Architecture, REST APIs, GraphQL, and SQL databases, dedicated to building high-performance and scalable applications. Experienced in the full development lifecycle, from prototyping to deployment and maintenance, following agile best practices. Skilled in dependency injection (Hilt/Dagger), Room, Retrofit, OkHttp, and unit/instrumented testing (JUnit, Mockito, Espresso). Earned an MBA in Mobile Development in 2023, expanding skills in microservices, Flutter, React, iOS, and AI-driven applications.
 education:
   title: Education
   info:
@@ -81,26 +81,28 @@ experiences:
       time: 07/2025 - Present
       company: Ontop, San Francisco - USA
       details: |
-        Working on the Ontop Android app enabling workers around the world to use their money on the best possible way.
-          
-        • Delivered features for USDC account, uitoolkit and crypto transfer
-          
-        • Added tools into our application to improve work efficiency
-          
-        • Reviewed code and submissions
+        Working on the Ontop Android app enabling workers around the world to use their money in the best possible way, using Kotlin, Jetpack Compose, GraphQL, Coroutines and Clean Architecture.
+
+        • Delivered features for USDC account, UI toolkit and crypto transfer
+
+        • Integrated GraphQL APIs and improved network layer using OkHttp
+
+        • Added developer tooling into the application to improve team work efficiency
+
+        • Reviewed code and submissions following clean code best practices
     - role: Android Developer
       time: 06/2022 - 07/2025
       company: BEES, Campinas - Brazil
       details: |
-        Worked for the BEES Force application, developing features to increase productivity and benefits for B2B workers:
-        
-          • Implemented features for Monetization, User performance, Synchronization, Profile, Workflow, etc
-        
-          • Deployed processes on our pipeline to catalog alterations
-        
-          • Created events for debugging and team-building
-        
-          • Coordinated a team for BFF initiatives and introduced onboarding for newcomers
+        Worked for the BEES Force application, developing features to increase productivity and benefits for B2B workers using Kotlin, MVVM, Hilt, Room, Retrofit, Coroutines and Flow:
+
+          • Implemented features for Monetization, User Performance, Synchronization, Profile and Workflow modules
+
+          • Deployed CI/CD pipeline processes on Gradle to catalog and automate release changes
+
+          • Created analytics events for debugging and cross-team integration
+
+          • Coordinated a team for BFF (Backend for Frontend) initiatives and introduced onboarding documentation for newcomers
     - role: Software Engineer
       time: 09/2020 - 06/2022
       company: SiDi, Campinas - Brazil
@@ -136,6 +138,30 @@ skills:
     - name: Kotlin
       level: 100%
 
+    - name: Jetpack Compose
+      level: 90%
+
+    - name: Coroutines & Flow
+      level: 90%
+
+    - name: MVVM / Clean Architecture
+      level: 85%
+
+    - name: Android SDK & Gradle
+      level: 85%
+
+    - name: Hilt / Dagger
+      level: 80%
+
+    - name: Room / SQLite
+      level: 80%
+
+    - name: Retrofit / OkHttp / GraphQL
+      level: 80%
+
+    - name: JUnit / Mockito / Espresso
+      level: 75%
+
     - name: Java
       level: 70%
 
@@ -144,9 +170,6 @@ skills:
 
     - name: Object-Oriented Programming (OOP)
       level: 80%
-
-    - name: Javascript
-      level: 50%
 
     - name: Flutter
       level: 50%
